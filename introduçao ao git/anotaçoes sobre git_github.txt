@@ -1,0 +1,28 @@
+Resumo sobre Git
+
+Git é um Sistema de controle de versão distribuido Open Source
+
+Instalando o git :
+https://git-scm.com/
+
+Primeiro passo apos instalação:
+crie uma pasta para treinar
+com botao do mouse , com o lado direito abra o bash
+crie um apasta com o comando mkdir nomedapasta
+liste com o comando ls
+para inicializar de um :git init 
+para configurar o git :git config --user.email "coloque o email cadastrado no github"
+git config --global user.name seunomedeusuario do github
+git add *
+git status
+
+
+github:
+crie um repositório, com read me
+edite o read me
+copie o endereço do repositório
+abra uma pasta do seu computador para aquele repositório
+dentro da pasta abra o bash
+coloque os comandos:
+git clone htpps do repositório
+entre na pasta pelo cd nome da pasta
