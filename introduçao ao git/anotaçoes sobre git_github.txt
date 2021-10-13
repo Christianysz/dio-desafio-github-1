@@ -26,3 +26,8 @@ dentro da pasta abra o bash
 coloque os comandos:
 git clone htpps do repositório
 entre na pasta pelo cd nome da pasta
+para add o arquivo criado  digite: git add . 
+para  preparar um envio para o github: git commit -m " anote o que você está inserindo"
+git stattus
+para enviar para o github : git pusb origin main
+
