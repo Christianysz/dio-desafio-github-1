@@ -1,11 +1,11 @@
 Resumo sobre Git
 
-Git é um Sistema de controle de versão distribuido Open Source
+Git Ã© um Sistema de controle de versÃ£o distribuido Open Source
 
 Instalando o git :
 https://git-scm.com/
 
-Primeiro passo apos instalação:
+Primeiro passo apos instalaÃ§Ã£o:
 crie uma pasta para treinar
 com botao do mouse , com o lado direito abra o bash
 crie um apasta com o comando mkdir nomedapasta
@@ -18,16 +18,17 @@ git status
 
 
 github:
-crie um repositório, com read me
+crie um repositÃ³rio, com read me
 edite o read me
-copie o endereço do repositório
-abra uma pasta do seu computador para aquele repositório
+copie o endereÃ§o do repositÃ³rio
+abra uma pasta do seu computador para aquele repositÃ³rio
 dentro da pasta abra o bash
 coloque os comandos:
-git clone htpps do repositório
+git clone htpps do repositÃ³rio
 entre na pasta pelo cd nome da pasta
 para add o arquivo criado  digite: git add . 
-para  preparar um envio para o github: git commit -m " anote o que você está inserindo"
+para  preparar um envio para o github: git commit -m " anote o que vocÃª estÃ¡ inserindo"
 git stattus
 para enviar para o github : git pusb origin main
 
+aula do professor  Venilton Falton Jr.
